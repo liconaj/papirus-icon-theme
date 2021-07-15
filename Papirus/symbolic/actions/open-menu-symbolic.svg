@@ -1,3 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <path style="fill:#444444" d="M 10,2 A 2,2 0 0 0 8,0 2,2 0 0 0 6,2 2,2 0 0 0 8,4 2,2 0 0 0 10,2 Z M 10,8 A 2,2 0 0 0 8,6 2,2 0 0 0 6,8 2,2 0 0 0 8,10 2,2 0 0 0 10,8 Z M 10,14 A 2,2 0 0 0 8,12 2,2 0 0 0 6,14 2,2 0 0 0 8,16 2,2 0 0 0 10,14 Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1">
+ <g>
+  <g transform="translate(2,2)">
+   <rect style="fill:#444444" width="12" height="2" x="0" y="0" ry=".956"/>
+   <use width="100%" height="100%" x="0" y="0" transform="translate(0,12)" xlink:href="#rect929"/>
+   <use width="100%" height="100%" x="0" y="0" transform="translate(0,6)" xlink:href="#rect929"/>
+  </g>
+  <g transform="translate(2,7)">
+   <rect style="fill:#444444" width="12" height="2" x="0" y="0" ry=".956"/>
+   <use width="100%" height="100%" x="0" y="0" transform="translate(0,12)" xlink:href="#rect929"/>
+   <use width="100%" height="100%" x="0" y="0" transform="translate(0,6)" xlink:href="#rect929"/>
+  </g>
+  <g transform="translate(2,12)">
+   <rect style="fill:#444444" width="12" height="2" x="0" y="0" ry=".956"/>
+   <use width="100%" height="100%" x="0" y="0" transform="translate(0,12)" xlink:href="#rect929"/>
+   <use width="100%" height="100%" x="0" y="0" transform="translate(0,6)" xlink:href="#rect929"/>
+  </g>
+ </g>
 </svg>
