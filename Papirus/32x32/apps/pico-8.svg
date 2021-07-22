@@ -2,13 +2,16 @@
  <rect x="2" y="2" width="28" height="28" rx="1.4" ry="1.4" style="fill:#e4e4e4"/>
  <path d="m3.4004 2c-0.7756 0-1.4004 0.6248-1.4004 1.4004v1c0-0.7756 0.6248-1.4004 1.4004-1.4004h25.2c0.775 0 1.4 0.6248 1.4 1.4004v-1c0-0.7756-0.625-1.4004-1.4-1.4004h-25.2z" fill="#fff" opacity=".2"/>
  <path d="m2 28.6v1c0 0.775 0.6248 1.4 1.4004 1.4h25.2c0.775 0 1.4-0.625 1.4-1.4v-1c0 0.775-0.625 1.4-1.4 1.4h-25.2c-0.7752 0-1.4-0.625-1.4-1.4z" opacity=".2"/>
+ <path d="m14 7v4h-4v4h-4v4h4v4h4v4h4v-4h4v-4h4v-4h-4v-4h-4v-4z" style="opacity:.2"/>
  <path d="m14 10v4h-4v4h4v4h4v-4h4v-4h-4v-4h-4z" style="fill:#ffffff"/>
- <rect x="18" y="10" width="4" height="4" style="fill:#ffd2a8"/>
- <rect x="18" y="18" width="4" height="4" style="fill:#9182d7"/>
- <rect x="22" y="14" width="4" height="4" style="fill:#ff90b8"/>
- <rect x="14" y="6" width="4" height="4" style="fill:#df574d"/>
- <rect x="10" y="10" width="4" height="4" style="fill:#fecd38"/>
- <rect x="10" y="18" width="4" height="4" style="fill:#79de70"/>
- <rect x="6" y="14" width="4" height="4" style="fill:#feff69"/>
- <rect x="14" y="22" width="4" height="4" style="fill:#50beee"/>
+ <g>
+  <rect x="18" y="10" width="4" height="4" style="fill:#ff8074"/>
+  <rect x="18" y="18" width="4" height="4" style="fill:#7767c0"/>
+  <rect x="22" y="14" width="4" height="4" style="fill:#f9548f"/>
+  <rect x="14" y="6" width="4" height="4" style="fill:#c2352a"/>
+  <rect x="10" y="10" width="4" height="4" style="fill:#e97e10"/>
+  <rect x="10" y="18" width="4" height="4" style="fill:#4bae4f"/>
+  <rect x="6" y="14" width="4" height="4" style="fill:#ddb400"/>
+  <rect x="14" y="22" width="4" height="4" style="fill:#248afd"/>
+ </g>
 </svg>
