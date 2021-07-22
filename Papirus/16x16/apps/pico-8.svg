@@ -1,16 +1,13 @@
 <svg width="16" height="16" version="1" xmlns="http://www.w3.org/2000/svg">
  <g>
-  <rect width="16" height="16" rx=".8" ry=".8" style="fill:#e4e4e4"/>
-  <g transform="translate(-3,-3)">
-   <rect x="11.945773" y="11.872923" width="2" height="2" style="fill:#7767c0"/>
-   <rect x="8" y="12" width="2" height="2" style="fill:#4bae4f"/>
-   <path d="m10 8.0000002v1.9999998h-2v2h2v2h2v-2h2v-2h-2v-1.9999998z" style="fill:#ffffff"/>
-   <rect x="10" y="6" width="2" height="2" style="fill:#c2352a"/>
-   <rect x="12" y="8" width="2" height="2" style="fill:#ff8074"/>
-   <rect x="14" y="10" width="2" height="2" style="fill:#f9548f"/>
-   <rect x="10" y="14" width="2" height="2" style="fill:#248afd"/>
-   <rect x="6" y="10" width="2" height="2" style="fill:#ddb400"/>
-   <rect x="8" y="8" width="2" height="2" style="fill:#e97e10"/>
-  </g>
+  <rect x="10" y="10" width="3" height="3" style="fill:#7767c0"/>
+  <rect x="3" y="10" width="3" height="3" style="fill:#4bae4f"/>
+  <rect x="6" width="4" height="3" style="fill:#c2352a"/>
+  <rect x="10" y="3" width="3" height="3" style="fill:#ff8074"/>
+  <rect x="13" y="6" width="3" height="4" style="fill:#f9548f"/>
+  <rect x="6" y="13" width="4" height="3" style="fill:#248afd"/>
+  <rect y="6" width="3" height="4" style="fill:#ddb400"/>
+  <rect x="3" y="3" width="3" height="3" style="fill:#e97e10"/>
+  <path d="m6 3v3h-3v4h3v3h4v-3h3v-4h-3v-3h-4z" style="fill:#ffffff"/>
  </g>
 </svg>
